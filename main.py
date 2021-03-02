@@ -9,12 +9,12 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super(MainWindow, self).__init__()
         self.browser = QWebEngineView()
-        self.browser.setUrl(QUrl('http://google.com'))
+        self.browser.setUrl(QUrl('https://google.com'))
         self.setCentralWidget(self.browser)
         self.showMaximized()
 
         # navbar
-        self.setWindowIcon(QtGui.QIcon('icon.webp'))
+        self.setWindowIcon(QtGui.QIcon('ico.png'))
         navbar = QToolBar()
         self.addToolBar(navbar)
 
@@ -52,6 +52,6 @@ class MainWindow(QMainWindow):
 
 
 app = QApplication(sys.argv)
-QApplication.setApplicationName('PyBro')
+QApplication.setApplicationName('WEBUFFER')
 window = MainWindow()
 app.exec_()
