@@ -3,20 +3,28 @@
 # WEBUFFER
 
 A WEB_BROWSER made entirely with python.
+
 ![Webuffer](splash.gif)
+
 ### Have a look at It,
- 1
+ * Splash screen
 ![Screenshot](https://github.com/Akshat-unt/WEBUFFER/blob/8362d1cddaf989f35c7f74e9918e055900932502/Screenshot%20(13).png)
- 2
+ * Browser
 ![screenshot](https://github.com/Akshat-unt/WEBUFFER/blob/8362d1cddaf989f35c7f74e9918e055900932502/Screenshot%20(10).png)
 
 ## Pre-requisites: 
-  > PyQt5     ``$ PIP INSTALL PyQt5``
-  > Sqlite3   ``$ pre installed with python3``
-  > PIL       ``$ PIP INSTALL pillow``
+  * PyQt5     ``$ PIP INSTALL PyQt5``
+  * Sqlite3   ``$ pre installed with python3``
+  * PIL       ``$ PIP INSTALL pillow``
 
 ## Credits:
   > Akshat
   
+## Limitations:
+  * No Loading animation till now (work in progress).
+  * You need to write the full url of a website required in order to search through the address bar
+  * Centrification of the Splash screen.
+
 ## Contribute:
-``add a loading button``
+* ``add a loading button``
+* ``Solve the limitations``
