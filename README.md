@@ -12,6 +12,13 @@ A WEB_BROWSER made entirely with python.
  * Browser
 ![screenshot](https://github.com/Akshat-unt/WEBUFFER/blob/8362d1cddaf989f35c7f74e9918e055900932502/Screenshot%20(10).png)
 
+# Installation:
+ * Download the .zip file of code.
+ * Extract it 📂.
+ * download/Install all the pre-requisites.
+ * run the ``splash.py`` file
+ * And BOOM! you have it! sit back and enjoy browsing!
+
 ## Pre-requisites: 
   * PyQt5     ``$ PIP INSTALL PyQt5``
   * Sqlite3   ``$ pre installed with python3``
