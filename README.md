@@ -15,9 +15,9 @@ A WEB_BROWSER made entirely with python.
 # Installation:
  * Download the .zip file of code.
  * Extract it 📂.
- * download/Install all the pre-requisites.
- * run the ``splash.py`` file
- * And BOOM! you have it! sit back and enjoy browsing!
+ * Download/Install all the pre-requisites.
+ * Run the ``splash.py`` file
+ * And <b>BOOM!</b> you have it! sit back and <span style="color: green;">enjoy browsing!</span>
 
 ## Pre-requisites: 
   * PyQt5     ``$ PIP INSTALL PyQt5``
