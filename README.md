@@ -4,7 +4,7 @@
 
 A WEB_BROWSER made entirely with python.
 
-![Webuffer](splash.gif)
+![Webuffer](Ssplash.gif)
 
 ### Have a look at It,
  * Splash screen
