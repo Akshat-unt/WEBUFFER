@@ -39,7 +39,7 @@ sroot.title("Splash window")
 
 sroot.configure()
 
-spath = "splash.gif"
+spath = "Ssplash.gif"
 
 simg = ImageTk.PhotoImage(Image.open(spath))
 
