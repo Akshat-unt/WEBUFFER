@@ -27,10 +27,18 @@ A WEB_BROWSER made entirely with python.
 ## Credits:
   > Akshat
   
+## INCREMENTS:
+  * Fully private browser.
+  * Dose'nt store cache or any other kind of data.
+  * Less on memory high on performance.
+  * Effecient usage of resources.
+  * UN-TRACKABLE!☢
+
 ## Limitations:
   * No Loading animation till now (work in progress).
   * You need to write the full url of a website required in order to search through the address bar
   * Centrification of the Splash screen.
+  * Can't sign in with Google.
 
 ## Contribute:
 * ``add a loading button``
