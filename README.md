@@ -35,10 +35,11 @@ A WEB_BROWSER made entirely with python.
   * UN-TRACKABLE!☢
 
 ## Limitations:
-  * No Loading animation till now (work in progress).
-  * You need to write the full url of a website required in order to search through the address bar
-  * Centrification of the Splash screen.
-  * Can't sign in with Google.
+  - [ ] No Loading animation till now (work in progress).
+  - [ ] You need to write the full url of a website required in order to search through the address bar
+  - [ ] Centrification of the Splash screen.
+  - [ ] Can't sign in with Google.
+  - [x] No Tabs! ``SOLVED IN VER 2.0``
 
 ## Contribute:
 * ``add a loading button``
