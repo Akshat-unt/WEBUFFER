@@ -44,3 +44,6 @@ A WEB_BROWSER made entirely with python.
 ## Contribute:
 * ``add a loading button``
 * ``Solve the limitations``
+## Wer'e participating in HACKTOBERFEST 2021
+> Feel free to submit pull requests with documentation improvements...
+* Any spam will not be tolerated.
