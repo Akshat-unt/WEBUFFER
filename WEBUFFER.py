@@ -14,7 +14,7 @@ def application_():
             self.showMaximized()
 
             # navbar
-            self.setWindowIcon(QtGui.QIcon('ico.png'))
+            self.setWindowIcon(QtGui.QIcon('Images\\ico.png'))
             navbar = QToolBar()
             self.addToolBar(navbar)
 
